@@ -1,4 +1,5 @@
 # **Electric Vehicle Market Analysis Dashboard**
+[**Power BI Link**](https://app.powerbi.com/view?r=eyJrIjoiYzM5ZTgxNzAtMzA1Ny00NWE2LWJlOWUtMjcxMWRiMDUwOTUwIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)
 
 ## **Project Overview**
 - Developed a **Power BI dashboard** to analyze electric vehicle data with a focus on key performance indicators (KPIs) such as **total vehicle count**, **average electric range**, and the distribution of **Battery Electric Vehicles (BEVs)** and **Plug-in Hybrid Electric Vehicles (PHEVs)**.
@@ -33,6 +34,10 @@
 1. Clone or download the repository.
 2. Open the Power BI file to explore the dashboard.
 3. Interact with the visualizations to analyze the data.
+
+## **Let's Connect**  - 
+🔴 [**LinkedIn**](https://www.linkdin.com/in/sonygaud31)
+🟢 [**Personal Portfolio**](https://www.notion.so/Electric-Vehicle-Market-Analysis-Power-BI-1819b578420681a38922fbebb4fb6c30?pvs=4)
 
 ## **License**
 This project is open-source and available under the [MIT License](LICENSE).
